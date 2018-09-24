@@ -6,4 +6,4 @@ The webpage features movement of decorative objects in accordance to the paralla
 The ownership of the design of the page lies with John Weston group, I was provided with
 a pre-designed .psd project to work on. 
 
-https://pppuzio.github.io/Ducky/
+https://pppuzio.github.io/sansara/
